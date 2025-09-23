@@ -48,10 +48,12 @@ Enter the no. of times Green LED blinks in 1min(Meter Counter):
 
 ## Output Waveform
 
+<img width="1920" height="1020" alt="Screenshot 2025-09-23 154841" src="https://github.com/user-attachments/assets/f4e92be4-f7a2-4efe-8118-f04902f755dc" />
 
 
 
 ## Result
+The measure energy using Single Phase Energy Meter was the successfully .
 
 
 
