@@ -46,14 +46,14 @@ Enter the no. of times Green LED blinks in 1min(Meter Counter):
 
 <img width="1103" height="478" alt="image" src="https://github.com/user-attachments/assets/5ff90202-b4f0-4469-875e-1ab888ab7ba6" />
 
-## Output Waveform
-
+## Output Waveforms 
+![WhatsApp Image 2025-11-18 at 3 48 38 PM](https://github.com/user-attachments/assets/27b28766-eec6-4a80-9f06-aae597f646c1)
 
 
 
 ## Result
 
-
+Measurement-of-Energy-using-Single-Phase-Energy-Meter has given it result
 
 
 
