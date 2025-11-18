@@ -43,16 +43,19 @@ R−A /A *100%
 Enter the no. of times Green LED blinks in 1min(Meter Counter):  
 
 ## Circuit Connection Diagram with Tabulation 
+ 
 
 <img width="1103" height="478" alt="image" src="https://github.com/user-attachments/assets/5ff90202-b4f0-4469-875e-1ab888ab7ba6" />
 
 ## Output Waveform
+![WhatsApp Image 2025-11-18 at 3 48 38 PM](https://github.com/user-attachments/assets/68bf608d-07fc-4bbd-b777-79428fd204ba)
+
 
 
 
 
 ## Result
-
+Measurement-of-Energy-using-Single-Phase-Energy-Meter give it value 
 
 
 
